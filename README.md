@@ -22,11 +22,4 @@ any elements you create in js with the associated CSS class names. The next 3
 lines of code are the HTML elements that you'll need to update when creating new
 TODOs. Lastly, you'll see the `addTodo()` function. This gets executed when
 creating a new TODO. You should replace the `alert()` call with logic to create
-new TODOs.
-
-Good luck!
-
-## Challenge! (Not Required)
-If you finish early and are up for a challenge, try adding delete functionality.
-This should be in the form of a button within each TODO that removes that TODO
-when clicked. 
+new TODO
